@@ -1,4 +1,5 @@
-# Documentation to install vipre using product key already purchased for new users.
+# How to Complete Your my.norton.com Home Setup and Install Norton on This Device?
 
-My first project, i am so happy. Yippie
+Valuable information for the users.
+
 
